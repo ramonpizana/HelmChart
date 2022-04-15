@@ -3,12 +3,12 @@ entries:
   myhelmchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-15T15:04:25.123169-05:00"
+    created: "2022-04-15T15:24:58.756345-05:00"
     description: A Helm chart for Kubernetes created by Ramon Pizana
-    digest: 2355ba37f466ade3f98a88db91619678516b3bf4a81d002b4b5bd893626add3f
+    digest: d20b94ffd047f7ac919b066a29001fdbd2d7564cd45441d3b12bba424209dac0
     name: myhelmchart
     type: application
     urls:
     - myhelmchart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-15T15:04:25.122526-05:00"
+generated: "2022-04-15T15:24:58.755433-05:00"
