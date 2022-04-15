@@ -1,1 +1,0 @@
-Don't forget modify replicaCount if you needed some replicas

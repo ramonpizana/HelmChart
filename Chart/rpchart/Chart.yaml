@@ -1,6 +1,6 @@
 apiVersion: v2
-name: myhelmchart
-description: A Helm chart for Kubernetes created by Ramon Pizana
+name: rpchart
+description: A Helm chart for Kubernetes by Ramon Pizana
 
 # A chart can be either an 'application' or a 'library' chart.
 #
