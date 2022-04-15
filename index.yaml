@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myhelmchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-15T14:49:31.723663-05:00"
+    description: A Helm chart for Kubernetes created by Ramon Pizana
+    digest: 48d032bf1829cc322fa06e5ebc94133a887b7334aababf549ffec0b81b93bc3d
+    name: myhelmchart
+    type: application
+    urls:
+    - myhelmchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-15T14:49:31.723144-05:00"
