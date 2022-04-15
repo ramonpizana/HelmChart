@@ -102,3 +102,17 @@ spec:
     targetPort: 8080
   selector:
     role: nodejs
+
+---
+
+apiVersion: v1
+kind: Pod
+metadata:
+  name: ubuntu
+spec:
+  containers:
+  - name: ubuntu
+    image: ubuntu
+    args:
+    - sleep
+    - infinity
